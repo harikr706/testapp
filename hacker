@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "test data for rhel7"
+date
+echo "thank god for wroking jenkins & git" 
